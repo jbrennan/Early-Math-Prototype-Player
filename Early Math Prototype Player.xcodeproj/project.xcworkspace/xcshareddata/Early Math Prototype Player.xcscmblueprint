@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "944367F958D8063401E96249EACB9C85C1B99CCA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "944367F958D8063401E96249EACB9C85C1B99CCA" : 0,
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : 0,
+    "C14CB1B573784FDAC4F22FE94327E26F8398833B" : 0,
+    "8E756A5F3B3088D21C2995D34B375B49B53EB485" : 0,
+    "0F89EA22C31D269E99992634292690A3B2CDD7B4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1BECEC31-D2D4-4014-8812-AECBF78C5DDB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "944367F958D8063401E96249EACB9C85C1B99CCA" : "Early-Math-Prototype-Player\/",
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "Early-Math-Prototype-Player\/ThirdParty\/FLAnimatedImage\/",
+    "C14CB1B573784FDAC4F22FE94327E26F8398833B" : "Early-Math-Prototype-Player\/Early%20Math%20Prototype%20Player\/Early-Math-Prototypes\/",
+    "8E756A5F3B3088D21C2995D34B375B49B53EB485" : "Early-Math-Prototype-Player\/ThirdParty\/MMMarkdown\/",
+    "0F89EA22C31D269E99992634292690A3B2CDD7B4" : "Early-Math-Prototype-Player\/Prototope\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Early Math Prototype Player",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Early Math Prototype Player.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jbrennan\/Prototope.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F89EA22C31D269E99992634292690A3B2CDD7B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mdiep\/MMMarkdown",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E756A5F3B3088D21C2995D34B375B49B53EB485"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jbrennan\/Early-Math-Prototype-Player.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "944367F958D8063401E96249EACB9C85C1B99CCA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Khan\/Early-Math-Prototypes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C14CB1B573784FDAC4F22FE94327E26F8398833B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Flipboard\/FLAnimatedImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0"
+    }
+  ]
+}
