@@ -3,7 +3,7 @@
 	url = git@github.com:Khan/Early-Math-Prototypes.git
 [submodule "Prototope"]
 	path = Prototope
-	url = git@github.com:Khan/Prototope.git
+	url = git@github.com:jbrennan/Prototope.git
 [submodule "ThirdParty/MMMarkdown"]
 	path = ThirdParty/MMMarkdown
 	url = https://github.com/mdiep/MMMarkdown
