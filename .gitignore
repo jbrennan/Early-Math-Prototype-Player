@@ -2,3 +2,5 @@
 *.xccheckout
 
 *.xcbkptlist
+
+*.xcscmblueprint
